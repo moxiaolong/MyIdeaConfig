@@ -7,6 +7,9 @@
       </app-key>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="overrideFont" value="true" />
+    <option name="phoneticFontFamily" value="Consolas" />
+    <option name="primaryFontFamily" value="Microsoft YaHei" />
     <option name="translator" value="fanyi.baidu" />
   </component>
 </application>
