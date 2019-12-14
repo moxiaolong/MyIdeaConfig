@@ -1,4 +1,9 @@
 <application>
+  <component name="AppStorage">
+    <histories>
+      <item value="role Servlet" />
+    </histories>
+  </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
       <app-key>
