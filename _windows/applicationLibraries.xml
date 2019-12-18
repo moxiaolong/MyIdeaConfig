@@ -27,5 +27,17 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="vue.common.dev" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_libs.cdnjs.net_vue_2.6.10_vue.common.dev.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_libs.cdnjs.net_vue_2.6.10_vue.common.dev.js" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
   </component>
 </application>
