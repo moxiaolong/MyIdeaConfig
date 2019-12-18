@@ -10,6 +10,11 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="@types/vue2-editor" type="javaScript">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="jquery" type="javaScript">
       <properties>
         <option name="frameworkName" value="jQuery" />
