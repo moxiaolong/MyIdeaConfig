@@ -1,0 +1,12 @@
+<templateSet group="java">
+  <template name="srr" value="(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {&#10;&#10;}" description="HttpServletRequest request, HttpServletResponse response) throws ServletException, IOExceptio" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+  <template name="try_con" value="try {&#10;&#9;$END$&#10;&#9;printResult(response, new Result(true, &quot;成功!&quot;, null));&#10;} catch (RuntimeException e) {&#10;&#9;e.printStackTrace();&#10;&#9;printResult(response, new Result(false, &quot;失败!&quot; + e.getMessage()));&#10;}" description="controller的try代码块" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

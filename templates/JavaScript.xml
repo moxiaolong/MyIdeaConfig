@@ -1,0 +1,3 @@
+<templateSet group="JavaScript">
+  <template name="post" value="var url =&quot;$END$&quot;;&#10;var data = null;&#10;axios.post(url,data)&#10;.then(res=&gt;{&#10;    console.log('res=&gt;',res);            &#10;})" toReformat="false" toShortenFQNames="true" />
+</templateSet>
