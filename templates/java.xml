@@ -1,5 +1,6 @@
 <templateSet group="java">
-  <template name="srr" value="(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {&#10;&#10;}" description="HttpServletRequest request, HttpServletResponse response) throws ServletException, IOExceptio" toReformat="false" toShortenFQNames="true">
+  <template name="srr" value="(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {&#10;    $end$&#10;}" description="HttpServletRequest request, HttpServletResponse response) throws ServletException, IOExceptio" toReformat="false" toShortenFQNames="true">
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_CODE" value="true" />
     </context>
