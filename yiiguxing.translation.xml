@@ -1,8 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="this" />
       <item value="role Servlet" />
     </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="ENGLISH" value="1" />
+      </map>
+    </option>
   </component>
   <component name="Settings">
     <option name="baiduTranslateSettings">
