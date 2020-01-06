@@ -1,5 +1,8 @@
 <templateSet group="JavaScript">
-  <template name="post" value="axios.post($END$)&#10;    .then(res =&gt; {&#10;        if (res.data.flag) {&#10;            this.$message.success(res.data.message)&#10;        } else {&#10;            this.$message.error(res.data.message)&#10;        }&#10;    }).finally(() =&gt; {&#10;        //finally&#10;})" description="axios.post" toReformat="false" toShortenFQNames="true">
+  <template name="post" value="axios.post($var1$,$var2$)&#10;    .then(res =&gt; {&#10;        if (res.data.flag) {&#10;            this.$message.success(res.data.message)&#10;            $end$&#10;        } else {&#10;            this.$message.error(res.data.message)&#10;        }&#10;    }).finally(() =&gt; {&#10;        //finally &#10;})&#10;" description="axios.post" toReformat="true" toShortenFQNames="true">
+    <variable name="var1" expression="路径" defaultValue="" alwaysStopAt="true" />
+    <variable name="var2" expression="参数" defaultValue="" alwaysStopAt="true" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
