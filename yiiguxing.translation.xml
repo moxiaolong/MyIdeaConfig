@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value=".el-container:nth-child(3) .el-main { z-index: 7777; box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1); }" />
       <item value="this" />
       <item value="role Servlet" />
     </histories>
@@ -8,6 +9,7 @@
       <map>
         <entry key="CHINESE" value="1" />
         <entry key="ENGLISH" value="1" />
+        <entry key="SPANISH" value="1" />
       </map>
     </option>
   </component>
