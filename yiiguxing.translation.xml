@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="严重: Unable to process Jar entry [module-info.class] from Jar [jar:file:/C:/Users/Dragon/.m2/repository/org/projectlombok/lombok/1.16.22/lombok-1.16.22.jar!/] for annotations" />
       <item value=".el-container:nth-child(3) .el-main { z-index: 7777; box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.1); }" />
       <item value="this" />
       <item value="role Servlet" />
@@ -8,7 +9,7 @@
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="1" />
-        <entry key="ENGLISH" value="1" />
+        <entry key="ENGLISH" value="3" />
         <entry key="SPANISH" value="1" />
       </map>
     </option>
